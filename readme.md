@@ -18,6 +18,15 @@
     · Abrir navegador web de preferencia e introducir la url: localhost/"la dirección de la carpeta dónde se encuentra el ejercicio o proyecto"
 
 **<h3>#Descripción ejercicios:</h3>**
-    · <a href="1.5.1_POO2_nivell1">1.5.1_POO2_nivell1</a>: *"Necessitem crear un tipus de dades que representi un animal. Els animals tenen un nom, ara bé, no és el mateix el so de la “parla” d’un gos, que el d’un gat. Per tant, necessitem crear altres tipus de dades que ens ajudin a programar aquests comportaments. Bàsicament, volem un mètode makeSound() que mostri un missatge diferent si es tracta d’un gos (per exemple,“Bup, bup!”) o un gat (per exemple “Meu!”)."*<br>
-    
-    
+    **<h4>Nivel 1:</h4>**
+    · <a href="1.5.1_POO2_nivell1">#Ejercicio 1</a>: *"Necessitem crear un tipus de dades que representi un animal. 
+    Els animals tenen un nom, ara bé, no és el mateix el so de la “parla” d’un gos, que el d’un gat. Per tant, necessitem 
+    crear altres tipus de dades que ens ajudin a programar aquests comportaments. Bàsicament, volem un mètode makeSound() 
+    que mostri un missatge diferent si es tracta d’un gos (per exemple,“Bup, bup!”) o un gat (per exemple “Meu!”)."*<br><br> 
+    **<h4>Nivel 2:</h4>**
+    · <a href="1.5.1_POO2_nivell2">#Ejercicio 1</a>: *"Escriu un programa que defineixi una classe Shape amb un constructor que 
+    rebi com a paràmetres l'ample i alt. Defineix dues subclasses; Triangle i Rectangle que heretin de Shape i que calculin 
+    respectivament l'àrea de la forma area()."*<br><br>   
+    **<h4>Nivel 3:</h4>**
+    · <a href="1.5.1_POO2_nivell3">#Ejercicio 1</a>: *"Seguint l’exercici anterior, imagina com ampliaries l’estructura que has 
+    creat per representar un Cercle i el seu corresponent càlcul d’àrea."*<br><br>
