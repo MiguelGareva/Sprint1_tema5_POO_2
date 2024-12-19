@@ -9,7 +9,7 @@ abstract class Shape {
         $this->base = $base;
         $this->altura = $altura;
     }
-    public abstract function calcularArea();
+    public abstract function calcularArea():float;
 }
 
 ?>
